@@ -24,7 +24,7 @@ hs_err_pid*
 
 # kotlin gitignore default
 .DS_Store
-.idea/shelf
+.idea/
 /confluence/target
 /dependencies/repo
 /android.tests.dependencies
@@ -60,7 +60,7 @@ build/
 .idea/runConfigurations/JPS_*.xml
 .idea/runConfigurations/PILL_*.xml
 .idea/runConfigurations/_FP_*.xml
-.idea/runConfigurations/_MT_*.xml
+.idea/runConfigurationSs/_MT_*.xml
 .idea/libraries
 .idea/modules.xml
 .idea/gradle.xml
@@ -87,6 +87,9 @@ build/
 .idea/jarRepositories.xml
 .idea/csv-plugin.xml
 .idea/libraries-with-intellij-classes.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/gradle.xml
 .idea/misc.xml
 node_modules/
 .rpt2_cache/
